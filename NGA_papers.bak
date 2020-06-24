@@ -1,0 +1,22 @@
+% Encoding: UTF-8
+
+@Article{Gustafson2017,
+  author  = {Gustafson, John L and Yonemoto, Isaac T},
+  journal = {Supercomputing Frontiers and Innovations},
+  title   = {Beating floating point at its own game: Posit arithmetic},
+  year    = {2017},
+  number  = {2},
+  pages   = {71--86},
+  volume  = {4},
+  file    = {:Papers/Gustafson2017 - Beating Floating Point at Its Own Game_ Posit Arithmetic.pdf:PDF},
+}
+
+@Article{Johnson2018,
+  author  = {Johnson, Jeff},
+  journal = {arXiv preprint arXiv:1811.01721},
+  title   = {Rethinking floating point for deep learning},
+  year    = {2018},
+  file    = {:Papers/Johnson2018 - Rethinking Floating Point for Deep Learning.pdf:PDF},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
